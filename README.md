@@ -7,7 +7,10 @@
 ---
 ## Integrantes
 Jailce Fernanda Leal dos Santos Brito
+
 Vitor Martins Rocha
+
+Rebecca da Silva Souza
 
 
 ## Estrutura
