@@ -1,17 +1,20 @@
-
 **Universidade Federal de Uberlândia**
-**Disciplina: GBC045 - Sistemas Operacionais**
-**Bacharelado em Ciência da Computação**
 
+**Disciplina: GBC045 - Sistemas Operacionais**
+
+**Bacharelado em Ciência da Computação**
 
 ---
 ## Integrantes
 Jailce Fernanda Leal dos Santos Brito
+
 Vitor Martins Rocha
+
+Rebecca da Silva Souza
 
 
 ## Estrutura
-
+```
 Grupo7/
 ├── README.md
 ├── slides/
@@ -19,7 +22,7 @@ Grupo7/
 ├── code/
 ├── tests/
 └── report
-
+```
 
 ## Etapa 1 - 09/06/2026
 
