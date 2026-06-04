@@ -13,65 +13,68 @@
 - Resolução e Áudio: Mínimo de 720p, em ambiente sem ruído.  
 - Participação: Todos devem falar e apresentar domínio técnico de sua respectiva parte. 
 
-# Roteiro Técnico do Vídeo
-### Parte 1: Introdução e Tema Escolhido (0:00 – 1:00)
+# Roteiro do Vídeo
 
 
+#### 🪧  Parte 1: Introdução e Tema Escolhido  
 
-
-- Apresentador: [Nanda]
-- Visual na Tela: 
+Apresentador: [Nanda]
+ 
 **Slides:**
-- Tópicos da Apresentação
+ - Tópicos da Apresentação
 - Tema e Objetivos do Projeto 
 
-- Conteúdo da Fala:
+Conteúdo da Fala:
 
 
-### Parte 2: Motivação do Projeto (1:00 – 2:15)
-- Apresentador: [Integrante 2 ]
 
-- Visual na Tela: 
-O Problema do Round Robin
-Proposta: Shortest Job First (SJF)
+------
 
-- Conteúdo da Fala:
 
-# Apresentação de Sistema de Agendamento
+####  🪧 Parte 2: Motivação do Projeto  
+  Apresentador: [Integrante 2 ]
 
-### Parte 3: Algoritmos e Mecanismos (2:15 – 3:30)
+ **Slides:**
+- O Problema do Round Robin
+- Proposta: Shortest Job First (SJF)
+
+ Conteúdo da Fala:
+
+ ------
+
+#### 🪧 Parte 3: Algoritmos e Mecanismos  
 
 **Apresentador:** [Integrante 3]
 
 **Visual na Tela:**
-Mecanismo 1: Syscall getruntime()
-Mecanismo 2: Estrutura proc
+- Mecanismo 1: Syscall getruntime()
+- Mecanismo 2: Estrutura proc
  
+ Conteúdo da Fala:
 
-### Parte 4: Proposta de Implementação no xv6 (3:30 – 5:30)
+ ------
 
-**Apresentador:** Integrante 4 
+#### 🪧  Parte 4: Proposta de Implementação no xv6  
+
+**Apresentador:** [Integrante 4] 
 
 **Visual na Tela:**
 
-
-Lógica de Seleção SJF no Kernel
-
-
-
-
+- Lógica de Seleção SJF no Kernel
 
 
 **Conteúdo da Fala:**
 
 
-### Parte 5: Metodologia de Testes e Conclusão (5:30 – 6:00)
+------
 
-**Apresentador:** Integrante 5
+### Parte 5: Metodologia de Testes e Conclusão  
 
-Arquitetura de Modificação
-Metodologia Experimental (Etapa 2)
-Estrutura do Repositório
+**Apresentador:** [Integrante 5]
 
-**Conteúdo da Fala:**
+- Arquitetura de Modificação
+- Metodologia Experimental (Etapa 2)*
+- Estrutura do Repositório
+
+ Conteúdo da Fala: 
 
