@@ -1,12 +1,12 @@
 
 ### Vídeo de 5 até 7 minutos apresentando:
-- [ ] tema escolhido;
-- [ ] motivação do projeto;
-- [ ] algoritmos e mecanismos implementados;
-- [ ] funcionamento da solução;
-- [ ] proposta de implementação no xv6.
+- [ ] 1.tema escolhido;
+- [ ] 2.motivação do projeto;
+- [ ] 3.algoritmos e mecanismos implementados;
+- [ ] 4.funcionamento da solução;
+- [ ] 5.proposta de implementação no xv6.
 
-
+### 🔗 [Link da Apresentação](https://docs.google.com/presentation/d/1WuHEavG5IGZEdjq-RjCij3ahDKgc2_jYTdkS9vgECkA/edit?usp=sharing)
 # Diretrizes Obrigatórias de Gravação
 
 - Formato: Câmeras obrigatoriamente ligadas durante toda a apresentação (com enquadramento de rosto). Não grave apenas slides narrados.  
@@ -17,18 +17,25 @@
 ### Parte 1: Introdução e Tema Escolhido (0:00 – 1:00)
 
 
-- Apresentador: [Integrante 1 ]
-- Visual na Tela: Slide com o título do projeto, identificação do Tema 7, nome dos integrantes e o link do repositório xv6-getruntime-project. Janela de vídeo do Integrante 1 visível.
-- Conteúdo da Fala:
 
+
+- Apresentador: [Nanda]
+- Visual na Tela: 
+**Slides:**
+- Tópicos da Apresentação
+- Tema e Objetivos do Projeto 
+
+- Conteúdo da Fala:
 
 
 ### Parte 2: Motivação do Projeto (1:00 – 2:15)
 - Apresentador: [Integrante 2 ]
 
-- Visual na Tela: Gráfico comparativo conceitual entre Round Robin (fatias de tempo fixas) e SJF (menor tempo primeiro), destacando o problema de sobrecarga (overhead) e penalização de processos curtos. Janela de vídeo do Integrante 2 visível.
-**Conteúdo da Fala:**
+- Visual na Tela: 
+O Problema do Round Robin
+Proposta: Shortest Job First (SJF)
 
+- Conteúdo da Fala:
 
 # Apresentação de Sistema de Agendamento
 
@@ -37,10 +44,8 @@
 **Apresentador:** [Integrante 3]
 
 **Visual na Tela:**
-- Diagrama de blocos mostrando o funcionamento teórico do *Shortest Job First* não-preemptivo e a fórmula de contagem de tempo de CPU baseada em ticks de clock do sistema.
-- Janela de vídeo do Integrante 3 visível.
-
-**Conteúdo da Fala:**
+Mecanismo 1: Syscall getruntime()
+Mecanismo 2: Estrutura proc
  
 
 ### Parte 4: Proposta de Implementação no xv6 (3:30 – 5:30)
@@ -48,8 +53,14 @@
 **Apresentador:** Integrante 4 
 
 **Visual na Tela:**
-- Diagrama da arquitetura do xv6 destacando os arquivos específicos que serão modificados (`proc.h`, `proc.c`, `syscall.c`, `user.h`).
-- Janela de vídeo do apresentador visível.
+
+
+Lógica de Seleção SJF no Kernel
+
+
+
+
+
 
 **Conteúdo da Fala:**
 
@@ -58,7 +69,9 @@
 
 **Apresentador:** Integrante 5
 
-**Visual na Tela:** Slide com a árvore de diretórios do repositório (`grupoX/code`, `grupoX/tests`, etc.) conforme exigido pela especificação.
+Arquitetura de Modificação
+Metodologia Experimental (Etapa 2)
+Estrutura do Repositório
 
 **Conteúdo da Fala:**
 
