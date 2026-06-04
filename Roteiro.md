@@ -45,7 +45,7 @@
 
 ### Parte 4: Proposta de Implementação no xv6 (3:30 – 5:30)
 
-**Apresentador:** Integrante 4 (e Integrante 5, caso o grupo possua 5 membros)
+**Apresentador:** Integrante 4 
 
 **Visual na Tela:**
 - Diagrama da arquitetura do xv6 destacando os arquivos específicos que serão modificados (`proc.h`, `proc.c`, `syscall.c`, `user.h`).
@@ -56,7 +56,7 @@
 
 ### Parte 5: Metodologia de Testes e Conclusão (5:30 – 6:00)
 
-**Apresentador:** Todos os integrantes (divisão rápida de fala ou encerramento pelo Integrante 1)
+**Apresentador:** Integrante 5
 
 **Visual na Tela:** Slide com a árvore de diretórios do repositório (`grupoX/code`, `grupoX/tests`, etc.) conforme exigido pela especificação.
 
