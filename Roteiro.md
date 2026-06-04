@@ -6,7 +6,7 @@
 - [ ] 4.funcionamento da solução;
 - [ ] 5.proposta de implementação no xv6.
 
-### 🔗 [Link da Apresentação](https://docs.google.com/presentation/d/1WuHEavG5IGZEdjq-RjCij3ahDKgc2_jYTdkS9vgECkA/edit?usp=sharing)
+### 🔗 [Link da Apresentação]() novo link em breve
 # Diretrizes Obrigatórias de Gravação
 
 - Formato: Câmeras obrigatoriamente ligadas durante toda a apresentação (com enquadramento de rosto). Não grave apenas slides narrados.  
@@ -35,8 +35,8 @@ Conteúdo da Fala:
   Apresentador: [Integrante 2 ]
 
  **Slides:**
-- O Problema do Round Robin
-- Proposta: Shortest Job First (SJF)
+- O Problema:
+- Proposta:  
 
  Conteúdo da Fala:
 
@@ -47,8 +47,8 @@ Conteúdo da Fala:
 **Apresentador:** [Integrante 3]
 
 **Visual na Tela:**
-- Mecanismo 1: Syscall getruntime()
-- Mecanismo 2: Estrutura proc
+- Mecanismo 1:  
+- Mecanismo 2:  
  
  Conteúdo da Fala:
 
@@ -60,7 +60,7 @@ Conteúdo da Fala:
 
 **Visual na Tela:**
 
-- Lógica de Seleção SJF no Kernel
+-  
 
 
 **Conteúdo da Fala:**
@@ -72,9 +72,9 @@ Conteúdo da Fala:
 
 **Apresentador:** [Integrante 5]
 
-- Arquitetura de Modificação
-- Metodologia Experimental (Etapa 2)*
-- Estrutura do Repositório
+-  
+-  
+-  
 
  Conteúdo da Fala: 
 
