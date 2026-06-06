@@ -6,8 +6,7 @@
 - [ ] 4.funcionamento da solução;
 - [ ] 5.proposta de implementação no xv6.
 
-### 🔗 [Link da Apresentação]() novo link em breve
-# Diretrizes Obrigatórias de Gravação
+### 🔗 [Link da Apresentação](https://docs.google.com/presentation/d/1gr8bQ1-IjTCvTS-Ddv0VwkgXLtXrChGahKKY3MSBUPE/edit?usp=sharing) 
 
 - Formato: Câmeras obrigatoriamente ligadas durante toda a apresentação (com enquadramento de rosto). Não grave apenas slides narrados.  
 - Resolução e Áudio: Mínimo de 720p, em ambiente sem ruído.  
@@ -21,11 +20,10 @@
 Apresentador: [Nanda]
  
 **Slides:**
- - Tópicos da Apresentação
+- Tópicos da Apresentação
 - Tema e Objetivos do Projeto 
 
 Conteúdo da Fala:
-
 
 
 ------
