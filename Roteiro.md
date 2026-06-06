@@ -30,7 +30,7 @@ Conteúdo da Fala:
 
 
 ####  🪧 Parte 2: Motivação do Projeto  
-  Apresentador: [Integrante 2 ]
+  Apresentador: [Anna Júlia]
 
  **Slides:**
 - O Problema:
