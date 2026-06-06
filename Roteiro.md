@@ -54,7 +54,7 @@ Conteúdo da Fala:
 
 #### 🪧  Parte 4: Proposta de Implementação no xv6  
 
-**Apresentador:** [Integrante 4] 
+**Apresentador:** [Rebecca] 
 
 **Visual na Tela:**
 
