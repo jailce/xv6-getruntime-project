@@ -15,7 +15,7 @@
 # Roteiro do Vídeo
 
 
-#### 🪧  Parte 1: Introdução e Tema Escolhido  
+#### 🪧  Parte 1: Introdução e Tema Escolhido e Motivação
 
 Apresentador: [Nanda]
  
@@ -29,7 +29,7 @@ Conteúdo da Fala:
 ------
 
 
-####  🪧 Parte 2: Motivação do Projeto  
+####  🪧 Parte 2: Syscall getfreemem()
   Apresentador: [Anna Júlia]
 
  **Slides:**
@@ -52,9 +52,9 @@ Conteúdo da Fala:
 
  ------
 
-#### 🪧  Parte 4: Proposta de Implementação no xv6  
+#### 🪧  Parte 4: Funcionamento da Solução
 
-**Apresentador:** [Rebecca] 
+**Apresentador:** 
 
 **Visual na Tela:**
 
@@ -66,9 +66,9 @@ Conteúdo da Fala:
 
 ------
 
-### Parte 5: Metodologia de Testes e Conclusão  
+### Parte 5: Proposta de Implementação"  
 
-**Apresentador:** [Integrante 5]
+**Apresentador:** [Rebecca] 
 
 -  
 -  
