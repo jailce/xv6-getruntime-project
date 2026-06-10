@@ -12,6 +12,10 @@ Vitor Martins Rocha
 
 Rebecca da Silva Souza
 
+Anna Julia 
+
+Eugênio Marins
+
 
 ## Estrutura
 ```
