@@ -68,7 +68,7 @@ Conteúdo da Fala:
 
 ### Parte 5: Proposta de Implementação"  
 
-**Apresentador:** [Rebecca] 
+**Apresentador:** [Eugenio] 
 
 -  
 -  
