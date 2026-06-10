@@ -42,7 +42,7 @@ Conteúdo da Fala:
 
 #### 🪧 Parte 3: Algoritmos e Mecanismos  
 
-**Apresentador:** [Integrante 3]
+**Apresentador:** [Vitor]
 
 **Visual na Tela:**
 - Mecanismo 1:  
@@ -54,7 +54,7 @@ Conteúdo da Fala:
 
 #### 🪧  Parte 4: Funcionamento da Solução
 
-**Apresentador:** 
+**Apresentador:** Eugenio
 
 **Visual na Tela:**
 
